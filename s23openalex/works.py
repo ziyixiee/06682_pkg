@@ -1,6 +1,5 @@
-import requests
-import time
 import base64
+import requests
 import matplotlib.pyplot as plt
 from IPython.core.pylabtools import print_figure
 import bibtexparser
