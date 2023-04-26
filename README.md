@@ -1,3 +1,3 @@
-# 06682_pkg
+# pkg_06682
 
-[![Unit tests](https://github.com/ziyixiee/06682_pkg/actions/workflows/my-workflow.yaml/badge.svg)](https://github.com/ziyixiee/06682_pkg/actions/workflows/my-workflow.yaml)
+[![Unit tests](https://github.com/ziyixiee/pkg_06682/actions/workflows/my-workflow.yaml/badge.svg)](https://github.com/ziyixiee/pkg_06682/actions/workflows/my-workflow.yaml)
